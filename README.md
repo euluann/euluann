@@ -1,16 +1,26 @@
-## Hi there 👋
+# Luan 👋
 
-<!--
-**euluann/euluann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer passionate about technology, automation and building efficient solutions.
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Backend Developer focused on building systems and solving problems
+- ⚙️ Interested in automation, software, hardware and computer systems
+- 🔍 Always learning and experimenting with new technologies
+
+## 🛠️ Interests
+
+- Backend development
+- Systems development
+- Automation and scripting
+- Python & C programming
+- Linux
+- Android
+- Low-level programming
+- Computer architecture
+
+## 📌 Currently
+
+Building backend projects, automating tasks, improving my skills and exploring how technology works under the hood.
+
+> "Understanding how things work is the first step to creating something new."
