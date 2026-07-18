@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Luan 👋</h1>
+  <h1>Hello, I'm Luan 👋</h1>
   <p>Backend Developer passionate about technology, automation and building efficient solutions.</p>
 </div>
 
