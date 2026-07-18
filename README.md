@@ -1,6 +1,9 @@
+<div align="center">
 # Luan 👋
 
 Backend Developer passionate about technology, automation and building efficient solutions.
+
+</div>
 
 ## 🚀 About me
 
@@ -22,5 +25,10 @@ Backend Developer passionate about technology, automation and building efficient
 ## 📌 Currently
 
 Building backend projects, automating tasks, improving my skills and exploring how technology works under the hood.
+
+## 📫 Contact
+
+- Email: [euluann.pestana@gmail.com](euluann.pestana@gmail.com)
+- GitHub: [github.com/euluann](github.com/euluann)
 
 > "Understanding how things work is the first step to creating something new."
