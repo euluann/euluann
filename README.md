@@ -1,34 +1,38 @@
 <div align="center">
-# Luan 👋
-
-Backend Developer passionate about technology, automation and building efficient solutions.
-
+  <h1>Luan 👋</h1>
+  <p>Backend Developer passionate about technology, automation and building efficient solutions.</p>
 </div>
 
-## 🚀 About me
+<h2>🚀 About me</h2>
+<ul>
+  <li>💻 Backend Developer focused on building systems and solving problems</li>
+  <li>⚙️ Interested in automation, software, hardware and computer systems</li>
+  <li>🔍 Always learning and experimenting with new technologies</li>
+</ul>
 
-- 💻 Backend Developer focused on building systems and solving problems
-- ⚙️ Interested in automation, software, hardware and computer systems
-- 🔍 Always learning and experimenting with new technologies
+<h2>🛠️ Interests</h2>
 
-## 🛠️ Interests
+<ul>
+  <li>Backend development</li>
+  <li>Systems development</li>
+  <li>Automation and scripting</li>
+  <li>Python & C programming</li>
+  <li>Linux</li>
+  <li>Android</li>
+  <li>Low-level programming</li>
+  <li>Computer architecture</li>
+</ul>
 
-- Backend development
-- Systems development
-- Automation and scripting
-- Python & C programming
-- Linux
-- Android
-- Low-level programming
-- Computer architecture
+<h2>📌 Currently</h2>
 
-## 📌 Currently
+<p>Building backend projects, automating tasks, improving my skills and exploring how technology works under the hood.</p>
 
-Building backend projects, automating tasks, improving my skills and exploring how technology works under the hood.
+<h2>📫 Contact</h2>
 
-## 📫 Contact
+<ul>
+  <li>Email: <a href="mailto:euluann.pestana@gmail.com">euluann.pestana@gmail.com</a></li>
+</ul>
 
-- Email: [euluann.pestana@gmail.com](euluann.pestana@gmail.com)
-- GitHub: [github.com/euluann](github.com/euluann)
-
-> "Understanding how things work is the first step to creating something new."
+<blockquote>
+  "Understanding how things work is the first step to creating something new."
+</blockquote>
