@@ -1,38 +1,49 @@
 <div align="center">
+
   <h1>Hello, I'm Luan 👋</h1>
-  <p>Backend Developer passionate about technology, automation and building efficient solutions.</p>
-</div>
 
-<h2>🚀 About me</h2>
-<ul>
-  <li>💻 Backend Developer focused on building systems and solving problems</li>
-  <li>⚙️ Interested in automation, software, hardware and computer systems</li>
-  <li>🔍 Always learning and experimenting with new technologies</li>
-</ul>
+  <p>Backend & Systems Developer passionate about low-level programming, operating systems, automation and understanding how computers work under the hood.</p>
 
-<h2>🛠️ Interests</h2>
+</div><h2>🚀 About me</h2><ul>
 
-<ul>
-  <li>Backend development</li>
-  <li>Systems development</li>
-  <li>Automation and scripting</li>
-  <li>Python & C programming</li>
-  <li>Linux</li>
-  <li>Android</li>
-  <li>Low-level programming</li>
-  <li>Computer architecture</li>
-</ul>
+  <li>💻 Backend & Systems Developer focused on building software and solving technical problems</li>
+  <li>⚙️ Passionate about low-level programming and computer systems</li>
+  <li>🧠 Exploring operating system development and computer architecture</li>
+  <li>🔧 Programming in Python, C and Assembly</li>
+  <li>🐧 Linux enthusiast</li>
+  <li>🔍 I love understanding how things work beneath the abstractions</li>
 
-<h2>📌 Currently</h2>
+</ul><h2>🛠️ Interests</h2><ul>
+  <li>🖥️ Operating System Development</li>
+  <li>⚡ Low-Level Programming</li>
+  <li>🔩 Assembly & C Programming</li>
+  <li>🧠 Computer Architecture</li>
+  <li>💾 Memory, CPU & Binary Formats</li>
+  <li>🐧 Linux & Systems Programming</li>
+  <li>⚙️ Backend Development</li>
+  <li>🤖 Automation & Scripting</li>
+  <li>📱 Android & Software Tooling</li>
 
-<p>Building backend projects, automating tasks, improving my skills and exploring how technology works under the hood.</p>
+</ul><h2>📚 Currently</h2><p>
+  Exploring operating system development, x86_64 architecture, Assembly,
+  C and low-level programming while building systems and tools that help me
+  understand what happens beneath the abstractions.
 
-<h2>📫 Contact</h2>
+</p><h2>🔭 Projects</h2><ul>
+  <li>
+    <strong>Bootloader</strong> — Exploring x86_64 boot processes, Assembly,
+    protected mode, long mode, paging and kernel loading.
+  </li>
+  <li>
+    <strong>APKVolt</strong> — A Python-based toolkit for working with and
+    modifying Android APKs at a lower level.
+  </li>
 
-<ul>
+</ul><h2>💻 Languages & Technologies</h2><p>
+
+</p><h2>📫 Contact</h2><ul>
   <li>Email: <a href="mailto:euluann.pestana@gmail.com">euluann.pestana@gmail.com</a></li>
-</ul>
 
-<blockquote>
+</ul><blockquote>
   "Understanding how things work is the first step to creating something new."
 </blockquote>
