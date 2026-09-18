@@ -16,7 +16,7 @@
 </ul><h2>🛠️ Interests</h2><ul>
   <li>🖥️ Operating System Development</li>
   <li>⚡ Low-Level Programming</li>
-  <li>🔩 Assembly & C Programming</li>
+  <li>🔩 Python, C & Assembly Programming</li>
   <li>🧠 Computer Architecture</li>
   <li>💾 Memory, CPU & Binary Formats</li>
   <li>🐧 Linux & Systems Programming</li>
@@ -28,16 +28,7 @@
   Exploring operating system development, x86_64 architecture, Assembly,
   C and low-level programming while building systems and tools that help me
   understand what happens beneath the abstractions.
-
-</p><h2>🔭 Projects</h2><ul>
-  <li>
-    <strong>Bootloader</strong> — Exploring x86_64 boot processes, Assembly,
-    protected mode, long mode, paging and kernel loading.
-  </li>
-  <li>
-    <strong>APKVolt</strong> — A Python-based toolkit for working with and
-    modifying Android APKs at a lower level.
-  </li>
+</p>
 
 </ul><h2>💻 Languages & Technologies</h2><p>
 
